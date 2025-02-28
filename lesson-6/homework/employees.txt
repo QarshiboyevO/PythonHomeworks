@@ -1,0 +1,5 @@
+1001	John Doe	Software Engineer	75000
+1003	Joe	 Engineer	76000
+1004	Umar, software, 35000
+1006	 Doe	Software Engineer	7600
+1007	John	Software Engineer	90770
